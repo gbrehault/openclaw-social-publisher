@@ -1,0 +1,1 @@
+{"name":"openclaw-social-publisher","version":"0.1.0","private":true,"type":"module","packageManager":"pnpm@10.28.2","scripts":{"build":"tsc -b","test":"node --test","lint":"tsc --noEmit","doctor":"node scripts/doctor.mjs","dev":"node apps/dashboard/server.mjs","figma:build":"node scripts/build-figma.mjs"},"devDependencies":{"typescript":"^5.9.3"}}
