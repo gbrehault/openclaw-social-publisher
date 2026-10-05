@@ -1,1 +1,1 @@
-{"name":"OpenClaw Social Publisher","id":"openclaw-social-publisher","api":"1.0.0","main":"dist/plugin.js","ui":"dist/index.html","editorType":["figma"]}
+{"name":"OpenClaw Social Publisher","id":"openclaw-social-publisher","api":"1.0.0","main":"code.js","ui":"ui.html","editorType":["figma"]}
