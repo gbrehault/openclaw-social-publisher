@@ -6,7 +6,7 @@ A local-first open-source foundation for generating, designing, previewing, vali
 
 ## Status
 
-The current milestone includes a SQLite repository, dynamic campaign core, dashboard/API, localhost Figma bridge, generic development plugin, dry-run adapters, CI and documentation. Live platform publication and verified Figma Desktop export are not claimed yet.
+The current milestone includes a SQLite repository, dynamic campaign core, dashboard/API, localhost Figma bridge, generic development plugin, dry-run adapters, CI and documentation. Real Figma Desktop export is verified for 3, 7, and 10 slides, including bridge status and dashboard JPEG previews. Instagram and LinkedIn publication remain mocked only.
 
 ## Quick start
 

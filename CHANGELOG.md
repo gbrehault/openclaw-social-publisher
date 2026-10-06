@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0
+
+- Verified real Figma Desktop exports for 3, 7 and 10 slides.
+- Added exact bridge export status and dashboard preview verification.
+- Added bridge error/reconnection coverage.
+- Instagram and LinkedIn remain mocked.
+
+
 ## 0.1.0
 
 - Initial independent product foundation.
