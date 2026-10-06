@@ -1,0 +1,34 @@
+{
+  "campaignId": "figma-live-test-7",
+  "name": "figma-live-test-7",
+  "slides": [
+    {
+      "title": "Un site clair commence avant le design",
+      "body": "Test cover — OpenClaw Social Publisher"
+    },
+    {
+      "title": "1. Une idée par slide",
+      "body": "Le message doit rester lisible."
+    },
+    {
+      "title": "2. Une hiérarchie nette",
+      "body": "Titre, explication, respiration."
+    },
+    {
+      "title": "3. Des textes réels",
+      "body": "Ce test injecte un contenu vérifiable."
+    },
+    {
+      "title": "4. Des frames nommées",
+      "body": "SLIDE-01 à SLIDE-07."
+    },
+    {
+      "title": "5. Un export contrôlé",
+      "body": "Chaque JPG revient au bridge."
+    },
+    {
+      "title": "À retenir",
+      "body": "La chaîne Figma live est validée par les fichiers et le statut."
+    }
+  ]
+}
