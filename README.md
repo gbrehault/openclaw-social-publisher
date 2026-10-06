@@ -24,7 +24,7 @@ OpenClaw -> Social Publisher Core -> SQLite -> Dashboard / Figma Bridge -> Figma
 
 No production BRHCRÉA files are modified. No test publishes to social accounts. Runtime databases, credentials and personal paths are excluded from Git.
 
-See docs/getting-started.md, docs/architecture.md, docs/security.md and CHANGELOG.md.
+See docs/getting-started.md, docs/architecture.md, docs/security.md, docs/custom-figma-templates.md, docs/template-schema.md and CHANGELOG.md.
 
 ## License
 
